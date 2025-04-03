@@ -27,7 +27,7 @@ This project is a minimal web app that lets you upload PDF or TXT documents and 
 1. Clone the Repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JesseRWeigel/langchain-rag-chat.git
 cd langchain-rag-chat
 ```
 
